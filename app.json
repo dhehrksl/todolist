@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "chat",
+    "slug": "chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/utils/ICON.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/utils/maintodo.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package" : "com.TI.Todolist",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/image/ICON.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./src/utils/ICON.png"
+    }
+  }
+}
