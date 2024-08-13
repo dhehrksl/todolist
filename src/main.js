@@ -9,9 +9,6 @@ import LoginScreen from './loginScreen';
 import ProfileScreen from './profileScreen';
 import { Image } from 'react-native';
 
-
-
-
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
 
